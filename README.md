@@ -70,9 +70,3 @@ For more details, see the [Wiki](https://github.com/guilhermeborgesbastos/live-r
 > _This project is a personal adaptation of an open-source template.  
 > If you like it, feel free to fork, customize, and star!_
 
----
-
-**備註：**  
-- 你可以根據需要加入 emoji（如 🚀、📃、🌐）或個人化設計元素，呼應你的品牌風格。
-- 保留 Credits 區塊，明確標註原模板來源，這是開源社群的基本禮儀。
-- 內容已聚焦於你的專業經驗與個人化特色，讓訪客一眼看出這是你的專屬履歷網站。
