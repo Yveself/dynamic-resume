@@ -1,4 +1,4 @@
-text
+
 # Dynamic Resume | Yves Wu
 
 > 🚀 A personalized, interactive web resume based on the open-source [live-resume](https://github.com/guilhermeborgesbastos/live-resume) template.  
